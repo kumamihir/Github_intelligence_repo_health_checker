@@ -3,8 +3,6 @@
 
 An AI-powered automated system that analyzes GitHub repositories to provide comprehensive health scores, risk assessments, and actionable insights using n8n workflow automation.
 
-![n8n Workflow](image1)
-
 ## 📋 Overview
 
 This project combines **n8n workflow automation** with a modern web interface to deliver real-time intelligence on GitHub repositories. It evaluates repository health based on multiple metrics including contribution activity, code quality indicators, maintenance status, and community engagement.
@@ -97,8 +95,6 @@ The system evaluates repositories based on:
 ### n8n Workflow
 The complete automation workflow showing all processing nodes and data flow paths.
 
-![n8n Workflow Architecture](image1)
-
 ## 🎯 Use Cases
 
 - **Project Selection**: Evaluate repositories before adopting dependencies
@@ -122,7 +118,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Mihir Kuma**
+**Mihir Kumar**
 - GitHub: [@kumamihir](https://github.com/kumamihir)
 
 ## 🙏 Acknowledgments
