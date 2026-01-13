@@ -1,3 +1,5 @@
+LIVE_URL : https://kumamihir.github.io/Github_intelligence_repo_health_checker/
+
 [README.md](https://github.com/user-attachments/files/24588429/README.md)
 # 🤖 GitHub Intelligence Repository Health Checker
 
